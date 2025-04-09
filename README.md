@@ -1,10 +1,12 @@
-👋 Halo, saya Yonanda Yuliana!
+# 👋 Halo, saya Yonanda Yuliana!
+
+![Welcome banner](https://readme-typing-svg.herokuapp.com/?lines=Selamat+Datang+di+Profil+GitHub+Saya!;Mahasiswa+D4+Teknologi+Rekayasa+Perangkat+Lunak;&center=true&size=20)
 
 🎓 Saya adalah Mahasiswa D4 Teknologi Rekayasa Perangkat Lunak yang bersemangat dalam dunia pemrograman dan pengembangan teknologi.
 
 ---
 
-🚀 Tentang Saya
+## 🚀 Tentang Saya
 
 Saya sedang menempuh pendidikan di bidang Teknologi Rekayasa Perangkat Lunak dan memiliki ketertarikan dalam membangun aplikasi berbasis web.
 
@@ -16,7 +18,7 @@ Saya percaya bahwa belajar itu proses, dan setiap baris kode adalah langkah menu
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
@@ -24,7 +26,16 @@ Saya percaya bahwa belajar itu proses, dan setiap baris kode adalah langkah menu
 
 ---
 
-📂 Proyek Unggulan
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YonandaYuliana&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YonandaYuliana&layout=compact&theme=radical" width="45%" />
+</p>
+
+---
+
+## 📂 Proyek Unggulan
 
 Saat ini saya sedang dalam proses membangun proyek-proyek keren. Stay tuned! 🚧
 
@@ -38,5 +49,13 @@ Saat ini saya sedang dalam proses membangun proyek-proyek keren. Stay tuned! �
 
 ---
 
-📝 Fun Fact
+## 📝 Fun Fact
 Saya suka belajar sambil dengerin musik atau sambil ngopi ☕✨
+
+---
+
+## 🎓 Badge & Lainnya
+
+![Open to Work](https://img.shields.io/badge/Open%20to-Work-brightgreen)
+![Status](https://img.shields.io/badge/Status-Mahasiswa-blue)
+![Python Lover](https://img.shields.io/badge/Python-Lover-yellow)
