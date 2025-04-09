@@ -45,7 +45,7 @@ Saat ini saya sedang dalam proses membangun proyek-proyek keren. Stay tuned! �
 
 📧 Email: yonandas1@gmail.com  
 💼 LinkedIn: [Yonanda Yuliana](https://www.linkedin.com/in/yonanda%20yuliana)  
-🌐 Website/Linktree: [hey.linkme/yonandayuliana](https://hey.linkme/yonandayuliana)
+🌐 Website/Linktree: [hey.linkme/yonandayuliana](https://heylink.me/yonandayuliana))
 
 ---
 
