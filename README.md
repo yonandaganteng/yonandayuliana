@@ -29,8 +29,8 @@ Saya percaya bahwa belajar itu proses, dan setiap baris kode adalah langkah menu
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YonandaYuliana&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YonandaYuliana&layout=compact&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yonandaganteng&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonandaganteng&layout=compact&theme=radical" width="45%" />
 </p>
 
 ---
