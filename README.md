@@ -1,6 +1,6 @@
 # 👋 Halo, saya Yonanda Yuliana!
 
-![Welcome banner](https://readme-typing-svg.herokuapp.com/?lines=Selamat+Datang+di+Profil+GitHub+Saya!;Mahasiswa+D4+Teknologi+Rekayasa+Perangkat+Lunak;&center=true&size=20)
+![Welcome banner](https://readme-typing-svg.herokuapp.com/?lines=Selamat+Datang+di+Profil+GitHub+Saya!=true&size=20)
 
 🎓 Saya adalah Mahasiswa D4 Teknologi Rekayasa Perangkat Lunak yang bersemangat dalam dunia pemrograman dan pengembangan teknologi.
 
